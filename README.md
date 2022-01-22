@@ -28,7 +28,7 @@ if __name__ == '__main__':
     me = AbhigyanTrips()
 ````
 
-<br>
+<br><br><br><br><br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
