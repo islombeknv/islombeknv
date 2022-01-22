@@ -5,11 +5,9 @@
 class AbhigyanTrips():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Islombek Normamatov";
+    self.username = "Islombeknv";
+    self.location = "Uzbekistan";
   
   def __str__(self):
     return self.name
@@ -17,7 +15,7 @@ if __name__ == '__main__':
     me = AbhigyanTrips()
 ```
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/islombeknv">
     <img src="https://i.pinimg.com/originals/d9/c4/ac/d9c4ac146bcb31a0122675adad18728f.gif">
   </a>
