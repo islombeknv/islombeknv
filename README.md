@@ -18,8 +18,8 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  <a href="https://github.com/islombeknv">
+    <img src="https://i.pinimg.com/originals/d9/c4/ac/d9c4ac146bcb31a0122675adad18728f.gif">
   </a>
 </div>
 
