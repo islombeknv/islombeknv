@@ -17,7 +17,7 @@ class AbhigyanTrips():
     self.name = "Islombek Normamatov";
     self.username = "Islombeknv";
     self.location = "Uzbekistan";
-    self.info = "A passionate Backend developer from Uzbekistan";
+    self.info = "Backend developer from Uzbekistan";
     
   def __str__(self):
     return self.name
