@@ -18,17 +18,19 @@
 </ul>
 
 #### A little more about me
-```javascript
-const badri = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
-  }
-}
-```
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Islombek Normamatov";
+    self.username = "Islombeknv";
+    self.location = "Uzbekistan";
+  
+  def __str__(self):
+    return self.name
+if __name__ == '__main__':
+    me = AbhigyanTrips()
+````
 
 
 ### ⚙️ &nbsp;GitHub Analytics
