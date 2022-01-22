@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="https://github.com/islombeknv">
-    <img src="https://media4.giphy.com/media/YMLUKpRMr8CDzawo5C/giphy-downsized-large.gif">
+    <img src="https://i.pinimg.com/originals/ff/36/07/ff360755f2e909116ab4e2686befd58d.gif">
   </a>
 </div>
 
