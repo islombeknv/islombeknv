@@ -15,9 +15,9 @@ if __name__ == '__main__':
     me = AbhigyanTrips()
 ```
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/islombeknv">
-    <img src="https://i.pinimg.com/originals/d9/c4/ac/d9c4ac146bcb31a0122675adad18728f.gif">
+    <img src="https://media4.giphy.com/media/YMLUKpRMr8CDzawo5C/giphy-downsized-large.gif">
   </a>
 </div>
 
