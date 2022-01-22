@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Islombek</h1>
 <h3 align="center">A passionate Backend developer from Uzbekistan</h3>
-
+![age](https://img.shields.io/badge/age-23-blue)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-Tashkent-3c9)
+![visitors](https://visitor-badge.herokuapp.com/badge?page_id=islombeknv.github.profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
