@@ -1,6 +1,7 @@
 <p align="center">
   <a align="center"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Back+end+developer;I'm+a+competitive+programmer;I'm+a+Python+developer" /></a>
 </p>
+<hr>
 <p>I am a Back-end developer, I'm a Competitive Programmer, I also like to create projects in Python.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
@@ -21,6 +22,7 @@ class AbhigyanTrips():
     
   def __str__(self):
     return self.name
+    
 if __name__ == '__main__':
     me = AbhigyanTrips()
 ````
